@@ -1,0 +1,22 @@
+{
+  "wheel_id": 398,
+  "structure": "umbrella",
+  "slug": "sydneyconveyancers-105",
+  "project": "conveyancing-sydney-beginner-guide-c020d7eac88c068c68ec777215ae",
+  "parent_t1_ref": "sydneyconveyancers-152",
+  "node_role": "feeder",
+  "money_target": "sydneyconveyancers.net.au",
+  "primary_kw": "conveyancing sydney beginner guide",
+  "intended_url": "https://sitesau.github.io/sydneyconveyancers-105/",
+  "tier": "T2",
+  "writeback_nonce": "ee036b53371321be",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/conveyancing-sydney-what-to-expect-dd6d235f13f2606284a906624/",
+      "anchor": "https://vercel-cloudsites-hub.vercel.app/sites-01/conveyancing-sydney-what-to-expect-dd6d235f13f2606284a906624/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
